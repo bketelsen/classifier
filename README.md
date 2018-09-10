@@ -1,5 +1,10 @@
 ## Classifier
 
+## Assumptions
+
+- You have scanned statements in a directory called "Unfiled".  The scans have already had OCR processed and the OCR text has been added to the PDF. 
+
+
 ### Getting Started
 Place a file called `classifier.toml` in your home directory.  Use the included example as a starting point.
 Modify this file to have unique keywords for each "vendor".  Account numbers, payment addresses, vendor name are all good choices for unique keywords.
