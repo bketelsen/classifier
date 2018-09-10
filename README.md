@@ -1,4 +1,5 @@
 ## Classifier
+Sort PDF files by source (vendor, biller, supplier, etc) based on categorization metadata.
 
 ## Assumptions
 
