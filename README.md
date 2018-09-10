@@ -7,6 +7,7 @@ Modify this file to have unique keywords for each "vendor".  Account numbers, pa
 Install pdf2txt from `https://github.com/euske/pdfminer/blob/master/tools/pdf2txt.py`
 
 `go install`
+
 `classifier -d /Users/you/Documents`
 
 `classifier` will read from `/Users/you/Documents/Unfiled` and file into
