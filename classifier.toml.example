@@ -1,0 +1,24 @@
+[[vendor]]
+name = "Nelnet"
+directory = "Nelnet"
+keywords = ["Current Statement Due Date", "R4nD0mAccountNumber", "Nelnet"]
+
+[[vendor]]
+name = "The Money Source"
+directory = "TMS"
+keywords = ["R4nDomAccountNumber", "TheMoneySource", "Loan Number", ]
+
+[[vendor]]
+name = "Florida Orthopaedic Institute"
+directory = "FloridaOrtho"
+keywords = ["Florida Orthopaedic Institute","Telecom","123456677"]
+
+[[vendor]]
+name = "Florida Medical Center"
+directory = "FMC"
+keywords = ["Florida Medical Clinic","1234567","ZEPHYRHILLS"]
+
+[[vendor]]
+name = "Bank of America"
+directory = "BOA"
+keywords = ["Bank of America","12345677889","Wilmington"]
